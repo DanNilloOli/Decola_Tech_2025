@@ -1,6 +1,5 @@
-# Azure Cognitive Search: Utilizando AI Search para indexação e consulta de Dados
+## Azure Cognitive Search: Utilizando AI Search para indexação e consulta de Dados
 
-## Nesse projeto da Azure Cognitive Search, disponível no Bootcamp da DIO em parceria com a Avanade temos a proposta de criar uma solução de pesquisa cognitiva do Azure:
 
 `Confira o passo a passo:`
 
@@ -36,12 +35,9 @@
 ![Passo 30](https://github.com/user-attachments/assets/039150e0-0b03-4a05-af27-7657bee29290)
 ![Passo 31](https://github.com/user-attachments/assets/8de3c4cc-6b97-40d0-91ea-5760bb7bdf79)
 ![Passo 32](https://github.com/user-attachments/assets/917216da-bf14-41f3-a18e-c7d25dc20687)
-> Imagem mostrada em aula
 
 ![Passo 33](https://github.com/user-attachments/assets/786d4b27-5c04-4952-8ee2-3163b0b070a1)
-> Imagem mostrada em aula
 
-> ⚠️⚠️ OBS: Na parte de buscar os dados no meu não funcionou e retornou: (Imagem mostrada é o resultado esperado, mostrado em aula. Não busca minha)*
 
 ```JSON
 {
@@ -65,18 +61,6 @@
     }
   ]
 }
-```
-> ## 📌 Se alguém souber como resolver estarei abrindo uma `issues`
 
 <br>
 
-<div>
-	
-| ![Jamyle Elen][img] |
-|:--------------------:|
-| **Jamyle Elen**      |
-| **Desenvolvedora Full-Stack**     |
-
-</div>
-
-[img]: https://github.com/user-attachments/assets/4b3637cc-e1a0-45e4-af1b-6b37f3626ecb

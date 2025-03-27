@@ -1,6 +1,3 @@
-# Explorando os Recursos de IA Generativa com Copilot e OpenAI
-
-> Nesse projeto proposto pela DIO em parceria com a Avanade nos aprofundamos em recursos de IA Generativa utilizando o Copilot e OpenAI.
 
 ### `Copilot`
 ![IAGenerated](https://github.com/user-attachments/assets/6008ffdb-7a24-4fb9-b98c-395b71cfa0f9)
@@ -10,7 +7,6 @@
 <br>
 <br>
 
-### Passo a passo de como utilizar o Vision Studio:
 > Para extrair texto de imagens
 
 ![Passo 1](https://github.com/user-attachments/assets/1575e44f-a700-44f7-98e3-c44d0fb76132)
@@ -33,11 +29,3 @@ DRSTONE <br>
 FBDREAMSCOMETRUE <br>
 Éaposedomaisfamosocientistadomundo. <br>
 (Fotografiaadquirida!) <br><br>
-
-<div align="right">
-	
-| Jamyle Elen |
-|:--------------------:|
-| **Desenvolvedora Full-Stack**     |
-
-</div>

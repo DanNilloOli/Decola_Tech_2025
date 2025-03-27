@@ -49,15 +49,3 @@ Em outra aba do terminal, acesse a pasta do back-end (src\main\java\br\com\dio\b
 	 BarberShopUiApiApplication.java
 	 ```
   
-<br>
-
-<div align=center>
-	
-| ![Jamyle Elen][img] |
-|:--------------------:|
-| **Jamyle Elen**      |
-| **Desenvolvedora Full-Stack**     |
-
-</div>
-
-[img]: https://github.com/user-attachments/assets/4b3637cc-e1a0-45e4-af1b-6b37f3626ecb

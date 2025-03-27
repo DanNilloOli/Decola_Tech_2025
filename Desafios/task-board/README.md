@@ -31,15 +31,4 @@ rode o aquivo:
 	 ```bash
 	 Main.java
 	 ```
-  
-<br>
 
-<div align=center>
-	
-| Jamyle Elen |
-|:--------------------:|
-| **Desenvolvedora Full-Stack** |
-
-</div>
-
-[img]: https://github.com/user-attachments/assets/4b3637cc-e1a0-45e4-af1b-6b37f3626ecb

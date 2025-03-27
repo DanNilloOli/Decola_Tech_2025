@@ -54,11 +54,3 @@ In another terminal tab, navigate to the back-end folder (src\main\java\br\com\d
 
 <div align=center>
 	
-| ![Jamyle Elen][img] |
-|:--------------------:|
-| **Jamyle Elen**      |
-| **Full-Stack Developer**     |
-
-</div>
-
-[img]: https://github.com/user-attachments/assets/4b3637cc-e1a0-45e4-af1b-6b37f3626ecb
